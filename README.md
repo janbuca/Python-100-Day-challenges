@@ -1,4 +1,3 @@
-# Python-100-Day-challenges
 # `100 Days of code complete professional Pythone Challenges`
 ## **Beginner Python**
 	- Variables in Python                   
