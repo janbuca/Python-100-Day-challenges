@@ -32,7 +32,15 @@ print(f"Each person should pay: ${final_amount}");
 # https://www.w3schools.com/python/ref_func_round.asp
 
  
-
+# add two number
+a = 10
+b = 20
+c = a + b
+print(c)
+# # add two number
+# a = 10
+# b = 20
+# c = a + b
 
 
 
