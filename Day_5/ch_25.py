@@ -7,5 +7,7 @@ print(student_heights);
 print(("The Sum of all Student height is ") + str( sum(student_heights)));
 print(("Total Student is ") + str( len(student_heights)));
 print(int (sum(student_heights) / len(student_heights)))
+# Average Height Exercise
+
 
  
