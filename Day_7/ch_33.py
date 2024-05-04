@@ -11,6 +11,9 @@ for letter in chosen_word:
     display += "_";
 print(display);
 
+
+
+
 guess = input("Guess a letter: ").lower()
 
 for letter in chosen_word:
